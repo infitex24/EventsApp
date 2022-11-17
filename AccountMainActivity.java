@@ -39,34 +39,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-AccountMainActivity extends AppCompatActivity implements View.OnClickListener {
+public class AccountMainActivity extends AppCompatActivity implements View.OnClickListener {
 
 
     private int LOCATION_REQUEST_CODE = 10001;
